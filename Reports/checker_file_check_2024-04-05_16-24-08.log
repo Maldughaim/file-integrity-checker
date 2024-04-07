@@ -1,0 +1,169 @@
+Alterd permissions
+ 
+ 
+Before
+-rwxrwxrwx 1 mohammed mohammed 84 Apr 5 12:38 /home/mohammed/Desktop/checker_file/a.txt:691aae6f26bb2dc2f6cb26501634416bf09d31719f8c05ab207a38c35a83d14c
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rw-r--r-- 1 root root 50 Apr 5 12:39 /home/mohammed/Desktop/checker_file/b.txt:a534977eeb615f0658eef927ae0724f910e9c53d39f61dfa5995aba8ebfb719d
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rwxrwxrwx 1 mohammed mohammed 19 Apr 5 14:59 /home/mohammed/Desktop/checker_file/c.txt:ee36015b12820f1ed1b68721277181d9173d00cc31bc46ebc6d2a166d8f588e3
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rw-r--r-- 1 mohammed mohammed 26 Apr 3 22:14 /home/mohammed/Desktop/checker_file/tr/d.txt:cb6afb30e43704b56f686fd718fcbe8678720a0d81dc9ce7cc016b1140ff0560
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rwxrwxrwx 1 root root 41 Apr 5 12:40 /home/mohammed/Desktop/checker_file/tr/e.txt:e79a9a4313cd644d4017389fe3b61abf38176903dc32f34c501959fefbfa9032
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rw-r--r-- 1 mohammed mohammed 1471544 Apr 3 22:15 /home/mohammed/Desktop/checker_file/tr/pic.png:8e70380701068e5176b159ca3517ae514eb80caddd82cd878299138ca69bb8b3
+ 
+After
+
+ 
+###################################################################################
+--------------------------------------------------------------------------------------------
+ 
+Alterd owner
+ 
+ 
+Before
+-rwxrwxrwx 1 mohammed mohammed 84 Apr 5 12:38 /home/mohammed/Desktop/checker_file/a.txt:691aae6f26bb2dc2f6cb26501634416bf09d31719f8c05ab207a38c35a83d14c
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rw-r--r-- 1 root root 50 Apr 5 12:39 /home/mohammed/Desktop/checker_file/b.txt:a534977eeb615f0658eef927ae0724f910e9c53d39f61dfa5995aba8ebfb719d
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rwxrwxrwx 1 mohammed mohammed 19 Apr 5 14:59 /home/mohammed/Desktop/checker_file/c.txt:ee36015b12820f1ed1b68721277181d9173d00cc31bc46ebc6d2a166d8f588e3
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rw-r--r-- 1 mohammed mohammed 26 Apr 3 22:14 /home/mohammed/Desktop/checker_file/tr/d.txt:cb6afb30e43704b56f686fd718fcbe8678720a0d81dc9ce7cc016b1140ff0560
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rwxrwxrwx 1 root root 41 Apr 5 12:40 /home/mohammed/Desktop/checker_file/tr/e.txt:e79a9a4313cd644d4017389fe3b61abf38176903dc32f34c501959fefbfa9032
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rw-r--r-- 1 mohammed mohammed 1471544 Apr 3 22:15 /home/mohammed/Desktop/checker_file/tr/pic.png:8e70380701068e5176b159ca3517ae514eb80caddd82cd878299138ca69bb8b3
+ 
+After
+
+ 
+###################################################################################
+--------------------------------------------------------------------------------------------
+ 
+Alterd content (hash)
+ 
+ 
+Before
+-rwxrwxrwx 1 mohammed mohammed 84 Apr 5 12:38 /home/mohammed/Desktop/checker_file/a.txt:691aae6f26bb2dc2f6cb26501634416bf09d31719f8c05ab207a38c35a83d14c
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rw-r--r-- 1 root root 50 Apr 5 12:39 /home/mohammed/Desktop/checker_file/b.txt:a534977eeb615f0658eef927ae0724f910e9c53d39f61dfa5995aba8ebfb719d
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rwxrwxrwx 1 mohammed mohammed 19 Apr 5 14:59 /home/mohammed/Desktop/checker_file/c.txt:ee36015b12820f1ed1b68721277181d9173d00cc31bc46ebc6d2a166d8f588e3
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rw-r--r-- 1 mohammed mohammed 26 Apr 3 22:14 /home/mohammed/Desktop/checker_file/tr/d.txt:cb6afb30e43704b56f686fd718fcbe8678720a0d81dc9ce7cc016b1140ff0560
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rwxrwxrwx 1 root root 41 Apr 5 12:40 /home/mohammed/Desktop/checker_file/tr/e.txt:e79a9a4313cd644d4017389fe3b61abf38176903dc32f34c501959fefbfa9032
+ 
+After
+
+ 
+###################################################################################
+ 
+ 
+Before
+-rw-r--r-- 1 mohammed mohammed 1471544 Apr 3 22:15 /home/mohammed/Desktop/checker_file/tr/pic.png:8e70380701068e5176b159ca3517ae514eb80caddd82cd878299138ca69bb8b3
+ 
+After
+
+ 
+###################################################################################
